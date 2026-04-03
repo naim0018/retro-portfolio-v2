@@ -41,3 +41,6 @@ GUIDE.md
 file_list.txt
 grep_bat_results.txt
 .vercel
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
